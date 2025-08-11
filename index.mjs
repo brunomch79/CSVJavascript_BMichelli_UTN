@@ -65,7 +65,7 @@ async function borrarProducto() {
 let salir = false
 while (!salir) {
     console.log("\n--- MENÚ ---")
-    console.log("1. Leer productos")
+    console.log("1. Ver productos")
     console.log("2. Agregar producto")
     console.log("3. Borrar producto")
     console.log("4. Salir")
